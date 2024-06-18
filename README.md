@@ -1,6 +1,3 @@
-
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
-
 # Portfolio
 
 Experienced Software Developer As an experienced professional in the technology sector, I have specialized in delivering robust and scalable software solutions. My passion for technology has led me to master a complete range of development skills, including front-end, back-end, and mobile development.
